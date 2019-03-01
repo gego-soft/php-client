@@ -11,7 +11,7 @@
     "blockchain"
   ],
   "type": "library",
-  "license": "Apache2",
+  "license": "MIT",
   "homepage": "https://github.com/gego-soft/php-client",
   "authors": [
     {
