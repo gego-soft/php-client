@@ -1,7 +1,9 @@
 {
-  "name": "blockcypher/php-client",
+  "name": "gego-soft/php-client",
   "description": "BlockCypher's PHP SDK for REST API",
   "keywords": [
+    "gegosoft",
+    "gego-soft"
     "blockcypher",
     "bitcoin",
     "rest",
@@ -10,11 +12,11 @@
   ],
   "type": "library",
   "license": "Apache2",
-  "homepage": "https://github.com/blockcypher/php-client",
+  "homepage": "https://github.com/gego-soft/php-client",
   "authors": [
     {
       "name": "BlockCypher",
-      "homepage": "https://github.com/blockcypher/php-client/contributors"
+      "homepage": "https://github.com/gego-soft/php-client/contributors"
     }
   ],
   "require": {
