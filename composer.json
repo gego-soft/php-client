@@ -3,7 +3,7 @@
   "description": "BlockCypher's PHP SDK for REST API",
   "keywords": [
     "gegosoft",
-    "gego-soft"
+    "gego-soft",
     "blockcypher",
     "bitcoin",
     "rest",
